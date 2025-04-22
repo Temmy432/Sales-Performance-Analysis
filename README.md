@@ -57,6 +57,10 @@ These datasets, obtained through rigorous online research, provide a robust foun
 • SQL: Utilized for querying and manipulating the dataset, ensuring accurate data extraction, filtering, and transformation for analysis.  
 • Power BI: Employed for data visualization, enabling clear representation of trends, patterns, and insights through interactive dashboards and reports.
 
+
+![](Images/Screenshot%202025-04-22%20095233.png)
+
+
 # ________________________________________
 ## KEY INSIGHTS
 • Top-Contributing Customer Type:  
