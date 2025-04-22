@@ -59,7 +59,7 @@ These datasets, obtained through rigorous online research, provide a robust foun
 
 
 
-![](Images/Screenshot%202025-04-22%20095233.png)
+![](images/Screenshot%202025-04-22%20095233.png)
 
 
 
